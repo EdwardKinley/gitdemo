@@ -1,0 +1,3 @@
+jump forward
+walk backwards
+throw thunder
